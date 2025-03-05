@@ -1,7 +1,7 @@
 # 💫 **About Me:**
 **I'm a passionate third-year Computer Science student at AGH University of Science and Technology with a strong interest in solving complex problems and tackling technical challenges. I specialize in the backend side of development.**<br>  
 
-#### **✉️ krzysztof.swedziol@onet.pl**<br>  
+#### **✉️ krzysztof.swedziol@onet.pl**  
 #### **🤝 Open to new collaborations and opportunities**<br>  
 
 ## 🌐 Socials:
